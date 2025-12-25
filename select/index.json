@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "才能ブルーム",
+  "base_artist": "ろーある",
+  "createdAt": "2025-12-25T08:32:32.375771Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "才能ブルーム",
+      "artist": "ろーある",
+      "has_synced": false,
+      "path": "select/pl_01_才能ブルーム_ろーある.txt"
+    }
+  ]
+}
